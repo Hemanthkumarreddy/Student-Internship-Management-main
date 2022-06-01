@@ -18,8 +18,6 @@
                         <option value="Eco">Economics</option>
                         <option value="Bus">Business</option>
                         <option value="PhyEd">Physical Education</option>
-                        <option value="Ger">German Language</option>
-
                     </select>
 
                     <div>
