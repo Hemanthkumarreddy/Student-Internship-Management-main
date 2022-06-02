@@ -4,7 +4,7 @@
 <pre>
 
 
-<router-link to="/admin"><button>Admin Login</button></router-link>
+<router-link to="/admin"><button>Admin's Login</button></router-link>
 
 
 

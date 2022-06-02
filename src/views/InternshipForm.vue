@@ -15,7 +15,7 @@
 
                     <select>
                         <option value="Comp">Computers</option>
-                        <option value="Eco">Economics</option>
+                        <option value="EEE">ELECTRICAL</option>
                         <option value="Bus">Business</option>
                         <option value="PhyEd">Physical Education</option>
                     </select>
